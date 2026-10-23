@@ -47,8 +47,7 @@ Explores delivery times, late-delivery rates, payment methods, and installment b
 
 The raw dataset is not included in this repository. Download it from Kaggle to reproduce the analysis, subject to the dataset's license terms.
 
-- `olist-sales-dashboard.pbix` — Interactive Power BI report.
-- 'olist-sales-dashboard.pdf' — PDF export of both dashboard pages.
+- [Olist Sales Dashboard - PDF](olist-sales-dashboard.pdf) — PDF export of both dashboard pages.
 
 ## Notes
 
