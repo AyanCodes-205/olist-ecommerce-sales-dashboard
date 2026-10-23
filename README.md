@@ -58,3 +58,5 @@ The raw dataset is not included in this repository. Download it from Kaggle to r
 ## Author
 
 **Ayan Basit**
+
+[LinkedIn Account](https://www.linkedin.com/in/ayanbasit/)
